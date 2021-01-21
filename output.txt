@@ -1,0 +1,497 @@
+
+
+BasePriority            : 8
+CurrentPriority         : 9
+Id                      : 27540
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00.0468750
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:32 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00.1093750
+UserProcessorTime       : 00:00:00.0625000
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 15668
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:01.0625000
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:32 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:02.7187500
+UserProcessorTime       : 00:00:01.6562500
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 21864
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00.1718750
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:32 PM
+ThreadState             : Ready
+TotalProcessorTime      : 00:00:00.3593750
+UserProcessorTime       : 00:00:00.1875000
+WaitReason              : 
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 9
+Id                      : 20180
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:32 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00
+UserProcessorTime       : 00:00:00
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 9
+Id                      : 24324
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:32 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00
+UserProcessorTime       : 00:00:00
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 17716
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:33 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00
+UserProcessorTime       : 00:00:00
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 10
+Id                      : 33252
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00.0156250
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:33 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00.0156250
+UserProcessorTime       : 00:00:00
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 3656
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00.9218750
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:33 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:05.7968750
+UserProcessorTime       : 00:00:04.8750000
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 35312
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00.3281250
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:33 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:02.3593750
+UserProcessorTime       : 00:00:02.0312500
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 10980
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:33 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00
+UserProcessorTime       : 00:00:00
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 36248
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00.0781250
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:33 PM
+ThreadState             : Ready
+TotalProcessorTime      : 00:00:00.1562500
+UserProcessorTime       : 00:00:00.0781250
+WaitReason              : 
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 23984
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00.1093750
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:33 PM
+ThreadState             : Ready
+TotalProcessorTime      : 00:00:00.1406250
+UserProcessorTime       : 00:00:00.0312500
+WaitReason              : 
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 6
+CurrentPriority         : 7
+Id                      : 32536
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Lowest
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:36 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00
+UserProcessorTime       : 00:00:00
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 9
+Id                      : 33972
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:37 PM
+ThreadState             : Ready
+TotalProcessorTime      : 00:00:00
+UserProcessorTime       : 00:00:00
+WaitReason              : 
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 15328
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:01.4062500
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:41 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:01.7968750
+UserProcessorTime       : 00:00:00.3906250
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 10
+Id                      : 22416
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:41 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00.0468750
+UserProcessorTime       : 00:00:00.0468750
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 9
+Id                      : 37840
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00.0468750
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:41 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00.0468750
+UserProcessorTime       : 00:00:00
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 25236
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00.0312500
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:41 PM
+ThreadState             : Ready
+TotalProcessorTime      : 00:00:00.0625000
+UserProcessorTime       : 00:00:00.0312500
+WaitReason              : 
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 31240
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00.0781250
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:41 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00.2343750
+UserProcessorTime       : 00:00:00.1562500
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 37164
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00.0156250
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:42 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00.0468750
+UserProcessorTime       : 00:00:00.0312500
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 18496
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00.0156250
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:22:43 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00.0468750
+UserProcessorTime       : 00:00:00.0312500
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 13296
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 8:23:21 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00
+UserProcessorTime       : 00:00:00
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 4860
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 9:18:46 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00
+UserProcessorTime       : 00:00:00
+WaitReason              : EventPairLow
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 15976
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:46.0156250
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 9:23:08 PM
+ThreadState             : Ready
+TotalProcessorTime      : 00:00:57.5312500
+UserProcessorTime       : 00:00:11.5156250
+WaitReason              : 
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 17820
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 9:23:12 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00
+UserProcessorTime       : 00:00:00
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 26512
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 9:23:21 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00
+UserProcessorTime       : 00:00:00
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 30464
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 9:23:23 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00
+UserProcessorTime       : 00:00:00
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 9
+Id                      : 31844
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 9:23:27 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00
+UserProcessorTime       : 00:00:00
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+BasePriority            : 8
+CurrentPriority         : 8
+Id                      : 22492
+IdealProcessor          : 
+PriorityBoostEnabled    : True
+PriorityLevel           : Normal
+PrivilegedProcessorTime : 00:00:00
+StartAddress            : -1721833328
+StartTime               : 5/9/2020 9:24:11 PM
+ThreadState             : Wait
+TotalProcessorTime      : 00:00:00
+UserProcessorTime       : 00:00:00
+WaitReason              : UserRequest
+ProcessorAffinity       : 
+Site                    : 
+Container               : 
+
+
+
